@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Barberia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Barberia" parent="Base.Theme.Barberia" />
+
+    <style name="CalenderViewCustom" parent="Theme.AppCompat">
+        <item name="colorAccent">#FF9800</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style><![CDATA[
+
+    ]]><style name="CalenderViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+    <item name="android:textColor">@android:color/white</item>
+</style>
+
+    <style name="CalenderViewWeekCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><![CDATA[
+]]></resources>

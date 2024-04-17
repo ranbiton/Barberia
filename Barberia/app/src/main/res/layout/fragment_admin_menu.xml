@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/backgroundblack"
+    android:gravity="center_horizontal">
+
+
+    <Button
+        android:id="@+id/btnAppointments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Appointments"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
+
+    <Button
+        android:id="@+id/btnManageCalendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manage Calendar"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
+
+    <Button
+        android:id="@+id/btnMessageForCustomers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Message For Customers"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
+
+    <Button
+        android:id="@+id/btnLogOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"/>
+
+    <!-- Space for logo at the bottom -->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:src="@drawable/logo" />
+</LinearLayout>

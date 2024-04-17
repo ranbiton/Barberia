@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824963837761",
+    "project_id": "barberia-15e2c",
+    "storage_bucket": "barberia-15e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824963837761:android:e42f787c7dac290496bbc0",
+        "android_client_info": {
+          "package_name": "com.example.barberia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKtlofU3m11JQiXFzfsSrSciqTRpKdIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<!-- res/drawable/gradient_separator.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+    <gradient
+        android:startColor="@color/light_grey"
+        android:endColor="@color/dark_grey"
+        android:angle="0"/>
+</shape>

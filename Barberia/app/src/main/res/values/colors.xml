@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#CCCCCC</color>
+    <color name="dark_grey">#333333</color>
+    <color name="dark_blue">#0D1751</color>
+
+    <color name="calendar_background">#202030</color>
+    <color name="calendar_text">#EFEFEF</color>
+    <color name="calendar_highlight">#FFC107</color>
+    <color name="calendar_accent">#D32F2F</color>
+
+
+</resources>
